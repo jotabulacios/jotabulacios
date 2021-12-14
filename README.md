@@ -2,6 +2,7 @@
 
 - ⚙️ Casi ingeniero mecánico 
 - 🦴 Hice la tesis desarrollando materiales compuestos para implantes biodegradables
+- 💻 Haciendo una transición hacia Scientific Machine Learning y Data-driven engineering
 - 👨‍🏫 Doy clases de álgebra y análisis matemático en el CBC de Ingeniería
 - 📧 email: jbulacios@fi.uba.ar
 <!--
