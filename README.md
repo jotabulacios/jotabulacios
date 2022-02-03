@@ -1,5 +1,5 @@
 ## Hola, soy Juan Pablo 👋
-
+<!--
 - ⚙️ Casi ingeniero mecánico 
 - 🦴 Hice la tesis desarrollando materiales compuestos para implantes biodegradables
 - 💻 Haciendo una transición hacia Scientific Machine Learning y Data-driven engineering
